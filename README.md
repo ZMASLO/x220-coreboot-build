@@ -1,10 +1,10 @@
-#Coreboot for Lenovo ThinkPad X220
+# Coreboot for Lenovo ThinkPad X220
 
 Be sure to read official documentation of coreboot before atempting to flash. There is always a possibility that you could brick your ThinkPad X220 when trying to flash coreboot.
 
 *Be sure to back up your old BIOS
 
-##Features
+## Features
 
 - Intel ME neutralized
 - Support for Intel Wi-Fi and Bluetooth
@@ -12,7 +12,7 @@ Be sure to read official documentation of coreboot before atempting to flash. Th
 - Increased DRAM speed
 - SeaBIOS payload
 
-##Secondary payloads
+## Secondary payloads
 
 - nvramcui
 - coreinfo
