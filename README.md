@@ -1,8 +1,8 @@
 # Coreboot for Lenovo ThinkPad X220
 
-Be sure to read official documentation of coreboot before atempting to flash. There is always a possibility that you could brick your ThinkPad X220 when trying to flash coreboot.
+Be sure to read official [coreboot](https://www.coreboot.org/Board:lenovo/x220) documentation before atempting to flash. There is always a possibility that you could brick your ThinkPad X220 when trying to flash coreboot.
 
-*Be sure to back up your old BIOS
+*Be sure to back up your old BIOS*
 
 ## Features
 
